@@ -18,7 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rpandey94&show_icons=true" alt="rpandey94" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/linkedin.com/in/rishav-pandey-0a08b7a8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/rishav-pandey-0a08b7a8" height="30" width="30" /></a>
-<a href="https://dribbble.com/rishav pandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="rishav pandey" height="30" width="30" /></a>
-<a href="https://www.behance.net/rishav pandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="rishav pandey" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/rishav-pandey-0a08b7a8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/rishav-pandey-0a08b7a8" height="30" width="30" /></a>
 </p>
