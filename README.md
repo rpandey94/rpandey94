@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rpandey94" alt="rpandey94" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Natural Language Processing and Deep Learning.**
+- 🌱 I’m currently learning **Machine Learning, Natural Language Processing and Deep Learning**
 
 - 👯 I’m looking to collaborate on **Natural Language Processing and Deep Learning**
 
