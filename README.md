@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishav Pandey</h1>
-<h3 align="center">A passionate machine learning developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rpandey94" alt="rpandey94" /> </p>
 
